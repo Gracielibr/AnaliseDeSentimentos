@@ -1,3 +1,6 @@
+# AnaliseDeSentimentos
+
+
 Este repositório documenta minha experiência de aprendizado com os serviços de IA cognitiva da Microsoft Azure, focando especificamente no Speech Studio e Language Studio. O objetivo principal foi desenvolver habilidades práticas em processamento de voz e linguagem natural através da exploração de cenários reais de aplicação.
 
 No Azure Speech Studio, explorei diversas funcionalidades como a conversão de fala em texto, que permite transformar áudio em transcrições escritas de forma precisa. Testei também a síntese de voz com vozes neurais, que impressionam pela naturalidade, além da tradução de fala em tempo real e a personalização de modelos para reconhecimento de fala adaptado a contextos específicos.
