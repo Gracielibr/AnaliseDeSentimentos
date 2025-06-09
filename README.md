@@ -1,4 +1,4 @@
-# AnaliseDeSentimentos
+# Analise De Sentimentos
 
 
 Este repositório documenta minha experiência de aprendizado com os serviços de IA cognitiva da Microsoft Azure, focando especificamente no Speech Studio e Language Studio. O objetivo principal foi desenvolver habilidades práticas em processamento de voz e linguagem natural através da exploração de cenários reais de aplicação.
